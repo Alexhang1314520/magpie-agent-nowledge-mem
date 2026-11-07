@@ -1,0 +1,10 @@
+node_modules/
+*.tgz
+dist/
+.DS_Store
+selection.json
+state.json
+status.json
+paused.json
+adapter.json
+*.key
